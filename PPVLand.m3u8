@@ -9,13 +9,13 @@ https://gg.poocloud.in/ABC/index.m3u8
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/boxing/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/06a62ae2e0572f19807e7d8b9bf90295-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Betis vs. FC Barcelona
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d2fd18098a2cd0b50e2ededc0ef1c66a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fulham vs. Crystal Palace
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_bet/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Wolverhampton Wanderers vs. Manchester United
+https://gg.poocloud.in/epl_ful/index.m3u8
+#EXTINF:-1 tvg-id="Racing.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d890eca4149c3753348ba502a664b75c-thumbnail.jpg" group-title="PPVLand - Racing Action",Abu Dhabi Grand Prix - Race
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_wol/index.m3u8
+https://gg.poocloud.in/f1/index.m3u8
