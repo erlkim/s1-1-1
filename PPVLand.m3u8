@@ -1,21 +1,21 @@
 #EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_DUMMY_CHANNELS.xml.gz"
-#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/91ee6b88dd7143eb2c1cb13bb6c77d08-thumbnail.jpg" group-title="PPVLand - NFL Action",Seattle Seahawks vs. Atlanta Falcons
+#EXTINF:-1 tvg-id="NFL.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ee83d32ebf117f8c145c0051d9918672-thumbnail.jpg" group-title="PPVLand - NFL Action",Troy Trojans vs. James Madison Dukes
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/atlantafalcons/index.m3u8
-#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/d042645a68d01af1123a428778f44626-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Dallas Mavericks vs. Oklahoma City Thunder
+https://gg.poocloud.in/ESPN/index.m3u8
+#EXTINF:-1 tvg-id="Basketball.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/44ebad0174a8885f7714c8c2311dbfa2-thumbnail.jpg" group-title="PPVLand - Basketball Hub",Indiana Pacers vs. Chicago Bulls
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/nba_oklahomacitythunder/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/06a62ae2e0572f19807e7d8b9bf90295-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Real Betis vs. FC Barcelona
+https://gg.poocloud.in/nba_chicagobulls/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/294edd06aa0e9953d5b0405f45284851-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Deportivo Alavés vs. Real Sociedad
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_bet/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a8ea9ec9d74a54fef1834fddfec25473-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Wolverhampton Wanderers vs. Manchester United
+https://gg.poocloud.in/ll_ala/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/3af6418d01a026864cc8517c3cbe9f15-thumbnail.jpg" group-title="PPVLand - Global Football Streams",FC Lorient vs. OL
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/epl_wol/index.m3u8
+https://gg.poocloud.in/ligue1_lor/index.m3u8
