@@ -4,26 +4,26 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/65feb28413c633fbb4f052a11b66d106-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Tottenham vs. Slavia Praha
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/aa60577a2c92ed024c37fa298b08756a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Atalanta vs. Chelsea
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ucl_tot/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/295001b0bbfd4a5f7b513a056bccb73f-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Drita vs. AZ Alkmaar
+https://gg.poocloud.in/ucl_ata/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/106cba7c5ff076ea39b3dbdf372f1b31-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Jagiellonia vs. Rayo Vallecano
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/uecl_dri/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4b22577db27e7f151896f323c96fe289-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Shelbourne vs. Crystal Palace
+https://gg.poocloud.in/uecl_jag/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/fb26206a5ae3085f66906e207a94023a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Hamrun Spartans  vs. Shakhtar
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/uecl_shl/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/5933a0a125fe4a50dbfa8a27943b2668-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Fiorentina vs. Hellas Verona
+https://gg.poocloud.in/uecl_hsp/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/68b8c77998ec7d65fc402f67f4abbc80-thumbnail.jpg" group-title="PPVLand - Global Football Streams",West Ham United vs. Aston Villa
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_fio/index.m3u8
+https://gg.poocloud.in/epl_whu/index.m3u8
 #EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/b80547dc393563ca22e9543eb4d38d62-thumbnail.jpg" group-title="PPVLand - NHL Action",Colorado Avalanche vs. Nashville Predators
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
