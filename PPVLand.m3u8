@@ -4,23 +4,23 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/4acd2d000376a204c17de27d59e4a037-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Ludogorets vs. PAOK
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/2a2d84c57e25b9831611f67c35437fc2-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sturm Graz vs. Crvena Zvezda
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/uel_lud/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a7c0c0307f3a859c31d4df72de55122a-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Lech Poznań vs. Mainz
+https://gg.poocloud.in/uel_sgr/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/971af48d25f866a1f5157c8b72fdb663-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Rijeka vs. Celje
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/uecl_lpo/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/05eaf8f8ed2d9c75aa24c0fca08545ed-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Leverkusen vs. Cologne
+https://gg.poocloud.in/uecl_rij/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/67b07709cfb21ac501bc57657dcd7795-thumbnail.jpg" group-title="PPVLand - Global Football Streams",FC Barcelona vs. CA Osasuna
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_b04/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/f0dd0e1b107be62875a44ea7f21b78bf-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Levante UD vs. Villarreal CF
+https://gg.poocloud.in/ll_bar/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/efe0eb034022f59c142354637ba9276d-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Bremen vs. Stuttgart
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/ll_lev/index.m3u8
+https://gg.poocloud.in/bundesliga_svw/index.m3u8
