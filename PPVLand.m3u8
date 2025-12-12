@@ -4,23 +4,18 @@
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://gg.poocloud.in/tampabaybuccaneers/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/c900ac0218352ab7db5d81faf6b824d7-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Porto vs. Malmö
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/a7706495cec5fe36aed593de080a0609-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Union Berlin vs. RB Leipzig
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/uel_por/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/ad02a343f3f7c8ea512aee59b134a420-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Gladbach vs. Wolfsburg
+https://gg.poocloud.in/bundesliga_fcu/index.m3u8
+#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/93a4b4658a0eff599be53b6aa5b641d3-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Sevilla FC vs. Real Oviedo
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/bundesliga_bmg/index.m3u8
-#EXTINF:-1 tvg-id="Soccer.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/76943305891882a3431cd0427bed4d99-thumbnail.jpg" group-title="PPVLand - Global Football Streams",Udinese vs. Napoli
+https://gg.poocloud.in/ll_sev/index.m3u8
+#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/75f6e6cb12287d680ace88206cddf9e2-thumbnail.jpg" group-title="PPVLand - NHL Action",San Jose Sharks vs. Toronto Maple Leafs
 #EXTVLCOPT:http-origin=https://ppv.to
 #EXTVLCOPT:http-referrer=https://ppv.to/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/seriea_udi/index.m3u8
-#EXTINF:-1 tvg-id="NHL.Hockey.Dummy.us" tvg-logo="https://api.ppv.to/assets/thumb/66d9741bc1fcbde04e4b9131c3608382-thumbnail.jpg" group-title="PPVLand - NHL Action",Ottawa Senators vs. Columbus Blue Jackets
-#EXTVLCOPT:http-origin=https://ppv.to
-#EXTVLCOPT:http-referrer=https://ppv.to/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://gg.poocloud.in/columbusbluejackets/index.m3u8
+https://gg.poocloud.in/torontomapleleafs/index.m3u8
